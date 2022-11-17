@@ -1,2 +1,2 @@
 # .github
-Public information about TOB
+Repositories holding the frontend and CMS for https://tobcompany.co.uk/
